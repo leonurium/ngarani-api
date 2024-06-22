@@ -23,3 +23,6 @@ To add more names, follow these steps:
 ### 3. Add names to the names.json file.
 ### 4. Commit your changes.
 ### 5. Create a Pull Request.
+
+## Deploy Your Own
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/leonurium/ngarani-api)
