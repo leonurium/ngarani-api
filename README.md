@@ -14,6 +14,7 @@ This is a simple API to get random names.
 {
   "name": "Random Name"
 }
+```
 
 ## Contribution
 To add more names, follow these steps:
